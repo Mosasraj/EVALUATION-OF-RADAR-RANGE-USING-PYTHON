@@ -1,4 +1,4 @@
-# EVALUATION OF RADAR RANGE USING PYTHON
+# EVALUATION OF RADAR RANGE USING SCILAB
 # Aim:
 To calculate the maximum range of a radar system using the Radar Range Equation and verify the results through Python programming.
 
@@ -12,12 +12,12 @@ The Radar Range Equation is a fundamental formula used in radar system design to
 4.	Input Parameters for the Radar System: Define the input parameters such as transmitted power, transmitter gain, receiver gain, radar frequency, radar cross section, and minimum detectable power.
 5.	Calculate the Maximum Range: Use the function to calculate the maximum range of the radar.
 6.	Execute the Program: Run the Python script to calculate and display the maximum range of the radar.
-#   OUTPUT:
+#   TABLULATION
+<img width="1051" height="1565" alt="image" src="https://github.com/user-attachments/assets/2a643571-08c1-4661-9919-3632be21b60d" />
 
-<img width="896" height="1600" alt="image" src="https://github.com/user-attachments/assets/396eac1f-1e80-4bcd-959b-424988ece917" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6cf37af5-bab5-412a-83b7-0734ebb95aea" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2da89bd5-7f22-43d8-9644-19a8ff19e060" />
-
+# OUTPUT
+<img width="1439" height="862" alt="image" src="https://github.com/user-attachments/assets/e9f0d974-b7cb-434e-97bc-5c158c7194c0" />
+<img width="1600" height="922" alt="image" src="https://github.com/user-attachments/assets/9e1a14ef-d037-4014-9971-cb97ea6cae88" />
 
 # RESULT:
 Thus, the maximum range of a radar system using the Radar Range Equation is verified through a Python program.
